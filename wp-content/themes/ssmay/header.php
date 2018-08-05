@@ -98,7 +98,7 @@
     <div id="search_bg">
         <div id="search_main">
             <div class="logo">
-                <a target="_blank" href="/"><img style="width: 200px;height: 200px;" atl="吐槽菌"
+                <a target="_blank" href="/"><img style="width: 360px;height: 120px;" atl="吐槽菌"
                                                  src="<?php bloginfo('template_url'); ?>/images/logo.png"></a>
             </div>
 

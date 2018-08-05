@@ -395,7 +395,7 @@ ol.commentlist li div.floor{ float:right;color:#bbb}
 .but_login{width:38px; height:20px;line-height:20px;display: block;margin:6px 6px 0px 6px;}
 .but_loginlogin{background: url(images/login.gif) no-repeat;border : 0;width:38px;height : 20px;line-height : 20px;cursor : pointer;}
 .but_loginlogin:hover{background: url(images/logina.gif) no-repeat;}
-#search_bg{margin:0 auto; width:1000px; background:#fff; height:185px;}
+#search_bg{margin:0 auto; width:1000px; background:#fff;}
 #search_main{ margin:0 auto; height:90px; }
 /* cms头部右侧栏*/
 .logo{float:left;padding-right:20px;}

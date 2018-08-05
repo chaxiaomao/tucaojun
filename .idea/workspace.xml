@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="041ecbbd-3b0a-4197-86e0-d89ceed0c0ea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ssmay/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/ssmay/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ssmay/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/ssmay/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/ssmay/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/ssmay/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,30 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-config.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8673">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="259">
+              <caret line="100" column="79" selection-start-line="100" selection-start-column="79" selection-end-line="100" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -44,8 +27,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="402" column="5" selection-start-line="402" selection-start-column="1" selection-end-line="402" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="397" column="56" selection-start-line="397" selection-start-column="56" selection-end-line="397" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -59,6 +42,7 @@
       <find>header.php</find>
       <find>logo9</find>
       <find>logo</find>
+      <find>#search_bg</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -74,6 +58,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/yeti1.9.3/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ssmay/includes/shortcode.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ssmay/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ssmay/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ssmay/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/ssmay/header.php" />
       </list>
@@ -85,7 +70,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -122,6 +107,14 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="ssmay" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tucaojun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tucaojun" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ssmay" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -163,12 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532941984250</updated>
       <workItem from="1532941985443" duration="1261000" />
-      <workItem from="1533347329079" duration="11343000" />
+      <workItem from="1533347329079" duration="14030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12604000" />
+    <option name="totallyTimeSpent" value="15291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -348,13 +341,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/images/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="402" column="5" selection-start-line="402" selection-start-column="1" selection-end-line="402" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/tuijian/tuijianno1.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -371,12 +357,12 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/images/rss_icon.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="84">
+          <caret line="417" column="25" selection-start-line="417" selection-start-column="21" selection-end-line="417" selection-end-column="28" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -384,12 +370,17 @@
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8673">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="397" column="56" selection-start-line="397" selection-start-column="56" selection-end-line="397" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ssmay/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="100" column="79" selection-start-line="100" selection-start-column="79" selection-end-line="100" selection-end-column="79" />
         </state>
       </provider>
     </entry>
