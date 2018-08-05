@@ -24,7 +24,7 @@
 
 			<div class="slider_image">			
 
-			<a href="<?php the_permalink() ?>" title="<?php the_title(); ?>" target="_blank" >
+			<a href="<?php the_permalink() ?>" title="<?php the_title(); ?>">
 
 			<?php if ( get_post_meta($post->ID, 'show', true) ) : ?>
 
@@ -48,7 +48,7 @@
 
 			<div class="slider_post">
 
-				<h3><a target="_blank" href="<?php the_permalink() ?>" rel="bookmark" title="详细阅读 <?php the_title_attribute(); ?>"><?php echo cut_str($post->post_title,40); ?></a></h3> 
+				<h3><a href="<?php the_permalink() ?>" rel="bookmark" title="详细阅读 <?php the_title_attribute(); ?>"><?php echo cut_str($post->post_title,40); ?></a></h3>
 
 				<div class="archive_info">
 

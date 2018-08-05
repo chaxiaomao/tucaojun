@@ -25,7 +25,7 @@
 				<?php query_posts('posts_per_page=5&caller_get_posts=1'); ?>
 				<?php while (have_posts()) : the_post(); ?>
 				<li>
-				<a target="_blank" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" class="title"><?php echo cut_str($post->post_title,34); ?></a>
+				<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" class="title"><?php echo cut_str($post->post_title,34); ?></a>
 				</li>
 				<?php endwhile; ?>
 			</ul>                    
@@ -35,7 +35,7 @@
 				<?php query_posts('posts_per_page=5&caller_get_posts=1&orderby=comment_count'); ?>
 				<?php while (have_posts()) : the_post(); ?>
 				<li>
-				<a target="_blank" href="<?php the_permalink(); ?>" class="title" title="<?php the_title(); ?>"><?php echo cut_str($post->post_title,34); ?></a>
+				<a href="<?php the_permalink(); ?>" class="title" title="<?php the_title(); ?>"><?php echo cut_str($post->post_title,34); ?></a>
 				</li>
 				<?php endwhile; ?>
 			</ul>      

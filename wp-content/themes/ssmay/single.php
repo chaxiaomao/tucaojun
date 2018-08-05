@@ -78,7 +78,7 @@
 
 				<div class="postcopyright">
 
-					<p><strong> 声明: </strong> 本文由(<a href="<?php bloginfo('home'); ?>"> <?php the_author(); ?> </a>)原创编译，转载请保留链接: <a href="<?php the_permalink()?>" title=<?php the_title(); ?>><?php the_title(); ?></a></p>
+					<p><strong> 声明: </strong> 本文由(<a href="javascript:;"> <?php the_author(); ?> </a>)原创编译，转载请保留链接: <a href="<?php the_permalink()?>" title=<?php the_title(); ?>><?php the_title(); ?></a></p>
 
 				</div>
 

@@ -403,7 +403,6 @@ ol.commentlist li div.floor{ float:right;color:#bbb}
 .logo1{float:left;margin-top:10px;padding-left:0px;border:0px solid #555;height:50px;font-size:13px;width:195px;background:#fff000; }
 .aa{float:left;width:20px;height:43px;margin-top:3px;padding-left:6px;border-right:1px solid #555;font-size:16px;}
 .logo2{float:left;width:160px;margin-top:3px;}
-.logo2 ul{float:left;width:160px;}
 .logo2 ul li{float:left;color:#999;padding-left:5px;}
 /* cms瀑布流*/
 
@@ -414,5 +413,5 @@ ol.commentlist li div.floor{ float:right;color:#bbb}
 .logo1{float:left;height:50px;font-size:13px;width:250px;margin-bottom:10px;}
 .aa{float:left;width:30px;height:43px;margin-top:3px;padding-left:20px;border-right:1px solid #555;font-size:16px;}
 .logo2{float:left;width:190px;margin-top:3px;}
-.logo2 ul{float:left;width:190px;}
+.logo2 ul{float:left;width:200px;}
 .logo2 ul li{float:left;color:#999;padding-left:8px;}
